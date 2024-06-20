@@ -26,6 +26,10 @@ SimplyStaking runs highly reliable and secure infrastructure in our own datacent
 - SimplyStaking website: <https://simplystaking.com/>
 - SimplyStaking Twitter: <https://twitter.com/SimplyStaking>
 
+### Further Reading
+
+If you wish to read more about monitoring and alerting on Initia, check out [our article](<https://simplystaking.com/panic-emergency-notification-system-for-your-initia-validator/>).
+
 ---
 
 Official PANIC by SimplyStaking image adapted from [slidescarnival.com](https://www.slidescarnival.com/)
